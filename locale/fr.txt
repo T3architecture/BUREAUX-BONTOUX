@@ -1,0 +1,22 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = BUREAUX - BONTOUX
+
+## Skin
+
+### Label
+label4056.text = BUREAUX - BONTOUX
+
+## Media
+
+### Title
+panorama_3468BAC6_385F_9388_41A2_5FD1C4CFFFA6.label = Espace détente
+panorama_3468E7A2_385F_9188_41C7_D9507725E04A.label = Salle de réunion
+panorama_346B7167_385F_8E88_41A0_32C454714D6D.label = Zone de travail
+panorama_346BE667_385F_B288_41B5_E684C4B2B22E.label = Filet
+panorama_34C2C48C_385F_7798_41CB_80834077179B.label = Hall d'entrée
